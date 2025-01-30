@@ -19,7 +19,7 @@
  */
 
 import { html, css, svg, LitElement } from 'lit';
-import { CasperIcon } from '@cloudware-casper/casper-icons/casper-icon.js';
+import { CasperIcon } from '@toconline/casper-icons/casper-icon.js';
 
 CasperIcon.register('casper-timed-status:error', svg`
       <svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
